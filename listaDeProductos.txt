@@ -1,0 +1,11 @@
+3|2.8|Flor blanca        
+1|3.5|Flor amarilla      
+2|2.8|Flor blanca        
+4|4.8|Flor naranja       
+1|3.5|Flor amarilla      
+2|3.5|Flor amarilla      
+1|2.8|Flor blanca        
+2|2.8|Flor blanca        
+3|2.8|Flor blanca        
+4|2.8|Flor blanca        
+5|2.8|Flor blanca        
